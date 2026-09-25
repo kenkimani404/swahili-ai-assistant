@@ -1,12 +1,23 @@
-Swahili Path ni mradi unaolenga kutumia teknolojia ya AI
-kusaidia watu kupata na kuelewa taarifa kwa kutumia Kiswahili.
+Swahili Path Campus Assistant ni msaidizi wa AI unaosaidia wanafunzi kupata taarifa za chuo kwa Kiswahili.
 
-Lengo la mfumo ni kufanya taarifa ziwe rahisi kufikiwa,
-hasa kwa watu wanaopendelea kutumia Kiswahili.
+Wanafunzi wanaweza kuuliza kuhusu masomo, mitihani, ratiba, ada, usajili, attachment, maktaba na huduma za wanafunzi.
 
-Mtumiaji anaweza kuuliza swali kwa Kiswahili na mfumo
-utatoa jibu linaloeleweka kwa kutumia taarifa zilizopo
-kwenye mfumo.
+Attachment ni sehemu ya mafunzo ya mwanafunzi ambapo mwanafunzi hupata uzoefu wa kazi katika mazingira halisi.
 
-Mfumo unaweza kusaidia katika elimu, upatikanaji wa taarifa,
-na huduma za kidijitali.
+Mwanafunzi anayehitaji taarifa kuhusu attachment anaweza kuuliza kuhusu mahitaji, maombi, barua, muda wa attachment na taratibu za kuwasilisha nyaraka.
+
+Usajili wa kozi ni mchakato wa mwanafunzi kuchagua na kuthibitisha kozi anazosoma katika semester husika.
+
+Mwanafunzi anaweza kuuliza kuhusu usajili wa kozi, tarehe za usajili na nyaraka zinazohitajika.
+
+Maktaba ya chuo huwasaidia wanafunzi kupata vitabu, machapisho na vifaa vya kujifunzia.
+
+Mwanafunzi anaweza kuuliza kuhusu huduma za maktaba, vitabu, muda wa kufungua na jinsi ya kutumia huduma za maktaba.
+
+Ada ya chuo ni malipo ambayo mwanafunzi anatakiwa kulipa kulingana na programu na taratibu za taasisi.
+
+Mwanafunzi anaweza kuuliza kuhusu taarifa za ada na taratibu za malipo, lakini mfumo haupaswi kubuni kiasi cha ada ambacho hakipo kwenye knowledge base.
+
+Mtihani ni tathmini inayotumiwa kupima uelewa wa mwanafunzi katika kozi.
+
+Mwanafunzi anaweza kuuliza kuhusu ratiba ya mitihani, maandalizi ya mtihani na taratibu za mtihani ikiwa taarifa hizo zipo kwenye knowledge base.
